@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://Shelex.github.io/cypress-allure-history-yae",
+  "buildOrder" : 5,
+  "buildName" : "GitHub Actions Run #2278717473",
+  "buildUrl" : "https://github.com/Shelex/cypress-allure-history-yae/actions/runs/2278717473",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/5/"
+} ]

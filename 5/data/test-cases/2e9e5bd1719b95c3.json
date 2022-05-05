@@ -1,0 +1,235 @@
+{
+  "uid" : "2e9e5bd1719b95c3",
+  "name" : "may fail",
+  "fullName" : "may fail",
+  "historyId" : "4fbccfb638bb6133f4ead39d460715b8",
+  "time" : {
+    "start" : 1651791740982,
+    "stop" : 1651791741879,
+    "duration" : 897
+  },
+  "status" : "failed",
+  "statusMessage" : "expected true to equal false",
+  "statusTrace" : "AssertionError: expected true to equal false\n    at Context.eval (https://example.cypress.io/__cypress/tests?p=cypress/integration/first.spec.ts:142:36)",
+  "flaky" : true,
+  "newFailed" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expected true to equal false",
+    "statusTrace" : "AssertionError: expected true to equal false\n    at Context.eval (https://example.cypress.io/__cypress/tests?p=cypress/integration/first.spec.ts:142:36)",
+    "steps" : [ {
+      "name" : "\"before each\" hook",
+      "time" : {
+        "start" : 1651791740982,
+        "stop" : 1651791741422,
+        "duration" : 440
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "visit https://example.cypress.io/commands/actions",
+        "time" : {
+          "start" : 1651791741073,
+          "stop" : 1651791741418,
+          "duration" : 345
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "wrap 23",
+        "time" : {
+          "start" : 1651791741418,
+          "stop" : 1651791741421,
+          "duration" : 3
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "as (\"currentHour\")",
+        "time" : {
+          "start" : 1651791741421,
+          "stop" : 1651791741421,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 3,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "get @currentHour",
+      "time" : {
+        "start" : 1651791741423,
+        "stop" : 1651791741425,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "assert expected **true** to equal **false**",
+      "time" : {
+        "start" : 1651791741879,
+        "stop" : 1651791741879,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "true"
+      } ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "\"after each\" hook",
+      "time" : {
+        "start" : 1651791741881,
+        "stop" : 1651791741900,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "log this is after each hook",
+        "time" : {
+          "start" : 1651791741883,
+          "stop" : 1651791741900,
+          "duration" : 17
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 1,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "57941a00aaa477e2",
+      "name" : "first.spec.ts:2022-05-05T23:02:21.595Z",
+      "source" : "57941a00aaa477e2.png",
+      "type" : "image/png",
+      "size" : 124883
+    }, {
+      "uid" : "f740cf6389ab8b6f",
+      "name" : "video recording",
+      "source" : "f740cf6389ab8b6f.mp4",
+      "type" : "video/mp4",
+      "size" : 886038
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 8,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Actions"
+  }, {
+    "name" : "feature",
+    "value" : "Actions Feature"
+  }, {
+    "name" : "epic",
+    "value" : "Plain js tests"
+  }, {
+    "name" : "tag",
+    "value" : "this is tag"
+  }, {
+    "name" : "owner",
+    "value" : "Me, lol"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "docs",
+    "url" : "https://on.cypress.io/interacting-with-elements",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "owner" : "Me, lol",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "dadff0c510141f0c",
+        "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/4//#testresult/dadff0c510141f0c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651791550857,
+          "stop" : 1651791551309,
+          "duration" : 452
+        }
+      }, {
+        "uid" : "365e4f2084632315",
+        "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/3//#testresult/365e4f2084632315",
+        "status" : "failed",
+        "statusDetails" : "`cy.get()` could not find a registered alias for: `@currentHour`.\nYou have not aliased anything yet.",
+        "time" : {
+          "start" : 1651791338121,
+          "stop" : 1651791339170,
+          "duration" : 1049
+        }
+      } ]
+    },
+    "tags" : [ "this is tag" ]
+  },
+  "source" : "2e9e5bd1719b95c3.json",
+  "parameterValues" : [ ]
+}
