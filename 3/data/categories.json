@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "`cy.get()` could not find a registered alias for: `@currentHour`.\nYou have not aliased anything yet.",
+      "children" : [ {
+        "name" : "may fail",
+        "uid" : "365e4f2084632315",
+        "parentUid" : "cc658a881caacdb4c3cffceef5970176",
+        "status" : "failed",
+        "time" : {
+          "start" : 1651791338121,
+          "stop" : 1651791339170,
+          "duration" : 1049
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cc658a881caacdb4c3cffceef5970176"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
