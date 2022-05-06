@@ -1,5 +1,10 @@
 [ {
   "buildOrder" : 5,
+  "reportUrl" : "https://Shelex.github.io/cypress-allure-history-example/5/",
+  "reportName" : "Allure Report with history",
+  "data" : { }
+}, {
+  "buildOrder" : 5,
   "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/5/",
   "reportName" : "Allure Report with history",
   "data" : {

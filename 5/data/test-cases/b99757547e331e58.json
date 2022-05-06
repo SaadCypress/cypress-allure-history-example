@@ -1,0 +1,287 @@
+{
+  "uid" : "b99757547e331e58",
+  "name" : ".focus() - focus on a DOM element",
+  "fullName" : ".focus() - focus on a DOM element",
+  "historyId" : "9669a37fa765c3bf4c36a146da118d95",
+  "time" : {
+    "start" : 1651826088816,
+    "stop" : 1651826089751,
+    "duration" : 935
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "\"before each\" hook",
+      "time" : {
+        "start" : 1651826088818,
+        "stop" : 1651826089636,
+        "duration" : 818
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "visit https://example.cypress.io/commands/actions",
+        "time" : {
+          "start" : 1651826088883,
+          "stop" : 1651826089632,
+          "duration" : 749
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "wrap 8",
+        "time" : {
+          "start" : 1651826089632,
+          "stop" : 1651826089634,
+          "duration" : 2
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "as (\"currentHour\")",
+        "time" : {
+          "start" : 1651826089634,
+          "stop" : 1651826089635,
+          "duration" : 1
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "get .action-focus",
+      "time" : {
+        "start" : 1651826089641,
+        "stop" : 1651826089690,
+        "duration" : 49
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "focus",
+      "time" : {
+        "start" : 1651826089690,
+        "stop" : 1651826089739,
+        "duration" : 49
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **<input#password1.form-control.action-focus.focus>** to have class **focus**",
+      "time" : {
+        "start" : 1651826089739,
+        "stop" : 1651826089739,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "prev",
+      "time" : {
+        "start" : 1651826089739,
+        "stop" : 1651826089750,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **<label>** to have attribute **style** with the value **color: orange;**",
+      "time" : {
+        "start" : 1651826089750,
+        "stop" : 1651826089750,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "color: orange;"
+      }, {
+        "name" : "expected",
+        "value" : "color: orange;"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "\"after each\" hook",
+      "time" : {
+        "start" : 1651826089780,
+        "stop" : 1651826089786,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "log this is after each hook",
+        "time" : {
+          "start" : 1651826089784,
+          "stop" : 1651826089786,
+          "duration" : 2
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 11,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Actions"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "feature",
+    "value" : "Actions Feature"
+  }, {
+    "name" : "epic",
+    "value" : "Plain js tests"
+  }, {
+    "name" : "tag",
+    "value" : "this is tag"
+  }, {
+    "name" : "owner",
+    "value" : "Me, lol"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "docs",
+    "url" : "https://on.cypress.io/interacting-with-elements",
+    "type" : "tms"
+  }, {
+    "name" : "docs",
+    "url" : "https://on.cypress.io/focus",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "owner" : "Me, lol",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "5305e8708a48aeeb",
+        "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/5//#testresult/5305e8708a48aeeb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651791737772,
+          "stop" : 1651791738811,
+          "duration" : 1039
+        }
+      }, {
+        "uid" : "e86c6abf95e66b8d",
+        "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/4//#testresult/e86c6abf95e66b8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651791546723,
+          "stop" : 1651791547993,
+          "duration" : 1270
+        }
+      }, {
+        "uid" : "6519795cadc67456",
+        "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/3//#testresult/6519795cadc67456",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651791334469,
+          "stop" : 1651791335587,
+          "duration" : 1118
+        }
+      }, {
+        "uid" : "b83e05739cb204d7",
+        "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/1//#testresult/b83e05739cb204d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651790774575,
+          "stop" : 1651790775701,
+          "duration" : 1126
+        }
+      } ]
+    },
+    "tags" : [ "this is tag" ]
+  },
+  "source" : "b99757547e331e58.json",
+  "parameterValues" : [ ]
+}

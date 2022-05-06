@@ -1,5 +1,17 @@
 [ {
   "buildOrder" : 5,
+  "reportUrl" : "https://Shelex.github.io/cypress-allure-history-example/5/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 4,
+    "unknown" : 0,
+    "total" : 4
+  }
+}, {
+  "buildOrder" : 5,
   "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/5/",
   "reportName" : "Allure Report with history",
   "data" : {
