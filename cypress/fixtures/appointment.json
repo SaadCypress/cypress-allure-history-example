@@ -1,0 +1,6 @@
+{
+  "title": "This is test appointment",
+  "start_date": "12/8/202112:45 AM",
+  "end_date": "12/9/202112:45 AM",
+  "description": "this is automated test appointment through cypress"
+}
