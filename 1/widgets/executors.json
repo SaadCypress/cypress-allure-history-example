@@ -1,10 +1,10 @@
 [ {
   "name" : "GitHub Actions",
   "type" : "github",
-  "url" : "https://Shelex.github.io/cypress-allure-history-yae",
+  "url" : "https://SaadCypress.github.io/cypress-allure-history-example",
   "buildOrder" : 1,
-  "buildName" : "GitHub Actions Run #2278632434",
-  "buildUrl" : "https://github.com/Shelex/cypress-allure-history-yae/actions/runs/2278632434",
+  "buildName" : "GitHub Actions Run #2357814407",
+  "buildUrl" : "https://github.com/SaadCypress/cypress-allure-history-example/actions/runs/2357814407",
   "reportName" : "Allure Report with history",
-  "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/1/"
+  "reportUrl" : "https://SaadCypress.github.io/cypress-allure-history-example/1/"
 } ]

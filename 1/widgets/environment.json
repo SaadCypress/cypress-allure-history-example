@@ -1,7 +1,4 @@
 [ {
-  "values" : [ "envInfo" ],
-  "name" : "someEnvInfo"
-}, {
-  "values" : [ "https://github.com/Shelex/cypress-allure-history-yaeURL=https://Shelex.github.io/cypress-allure-history-yae" ],
-  "name" : "githubRepo"
+  "values" : [ "https://SaadCypress.github.io/cypress-allure-history-example" ],
+  "name" : "URL"
 } ]

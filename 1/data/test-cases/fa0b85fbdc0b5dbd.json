@@ -1,0 +1,293 @@
+{
+  "uid" : "fa0b85fbdc0b5dbd",
+  "name" : ".clear() - clears an input or textarea element",
+  "fullName" : ".clear() - clears an input or textarea element",
+  "historyId" : "fa534f1bfef9141e4ee0be8e32412027",
+  "time" : {
+    "start" : 1653044200510,
+    "stop" : 1653044201707,
+    "duration" : 1197
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "\"before each\" hook",
+      "time" : {
+        "start" : 1653044200510,
+        "stop" : 1653044200961,
+        "duration" : 451
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "visit https://example.cypress.io/commands/actions",
+        "time" : {
+          "start" : 1653044200624,
+          "stop" : 1653044200958,
+          "duration" : 334
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "wrap 10",
+        "time" : {
+          "start" : 1653044200958,
+          "stop" : 1653044200960,
+          "duration" : 2
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "as (\"currentHour\")",
+        "time" : {
+          "start" : 1653044200960,
+          "stop" : 1653044200960,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "get .action-clear",
+      "time" : {
+        "start" : 1653044200977,
+        "stop" : 1653044200998,
+        "duration" : 21
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "type Clear this text",
+      "time" : {
+        "start" : 1653044200998,
+        "stop" : 1653044201527,
+        "duration" : 529
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **<input#description.form-control.action-clear>** to have value **Clear this text**",
+      "time" : {
+        "start" : 1653044201527,
+        "stop" : 1653044201527,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "Clear this text"
+      }, {
+        "name" : "expected",
+        "value" : "Clear this text"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "clear",
+      "time" : {
+        "start" : 1653044201527,
+        "stop" : 1653044201707,
+        "duration" : 180
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **<input#description.form-control.action-clear>** to have value **''**",
+      "time" : {
+        "start" : 1653044201707,
+        "stop" : 1653044201707,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "\"after each\" hook",
+      "time" : {
+        "start" : 1653044201720,
+        "stop" : 1653044201733,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "log this is after each hook",
+        "time" : {
+          "start" : 1653044201731,
+          "stop" : 1653044201733,
+          "duration" : 2
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 11,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Actions"
+  }, {
+    "name" : "feature",
+    "value" : "Actions Feature"
+  }, {
+    "name" : "epic",
+    "value" : "Plain js tests"
+  }, {
+    "name" : "tag",
+    "value" : "this is tag"
+  }, {
+    "name" : "owner",
+    "value" : "Me, lol"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "docs",
+    "url" : "https://on.cypress.io/interacting-with-elements",
+    "type" : "tms"
+  }, {
+    "name" : "docs",
+    "url" : "https://on.cypress.io/clear",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "owner" : "Me, lol",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 6,
+        "unknown" : 0,
+        "total" : 6
+      },
+      "items" : [ {
+        "uid" : "b13ee9a7870c6ad3",
+        "reportUrl" : "https://Shelex.github.io/cypress-allure-history-example/5//#testresult/b13ee9a7870c6ad3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651826090710,
+          "stop" : 1651826091670,
+          "duration" : 960
+        }
+      }, {
+        "uid" : "ec5e53bb5798443c",
+        "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/5//#testresult/ec5e53bb5798443c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651791739984,
+          "stop" : 1651791740963,
+          "duration" : 979
+        }
+      }, {
+        "uid" : "acbd3ad76d3a24ff",
+        "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/4//#testresult/acbd3ad76d3a24ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651791549534,
+          "stop" : 1651791550821,
+          "duration" : 1287
+        }
+      }, {
+        "uid" : "68a6be21b7d58257",
+        "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/3//#testresult/68a6be21b7d58257",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651791336966,
+          "stop" : 1651791338107,
+          "duration" : 1141
+        }
+      }, {
+        "uid" : "697c0141614c7bad",
+        "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/1//#testresult/697c0141614c7bad",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651790776706,
+          "stop" : 1651790777638,
+          "duration" : 932
+        }
+      } ]
+    },
+    "tags" : [ "this is tag" ]
+  },
+  "source" : "fa0b85fbdc0b5dbd.json",
+  "parameterValues" : [ ]
+}

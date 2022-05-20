@@ -1,5 +1,40 @@
 [ {
   "buildOrder" : 1,
+  "reportUrl" : "https://SaadCypress.github.io/cypress-allure-history-example/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 5205
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "https://Shelex.github.io/cypress-allure-history-example/5/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 3162
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/5/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 4107
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/4/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 4586
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 4701
+  }
+}, {
+  "buildOrder" : 1,
   "reportUrl" : "https://Shelex.github.io/cypress-allure-history-yae/1/",
   "reportName" : "Allure Report with history",
   "data" : {

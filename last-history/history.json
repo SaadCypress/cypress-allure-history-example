@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 5
+      "total" : 6
     },
     "items" : [ {
+      "uid" : "11ac82c08b95beb7",
+      "reportUrl" : "https://SaadCypress.github.io/cypress-allure-history-example/1//#testresult/11ac82c08b95beb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653044197058,
+        "stop" : 1653044198924,
+        "duration" : 1866
+      }
+    }, {
       "uid" : "b99757547e331e58",
       "reportUrl" : "https://Shelex.github.io/cypress-allure-history-example/5//#testresult/b99757547e331e58",
       "status" : "passed",
@@ -60,11 +69,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 5
+      "total" : 6
     },
     "items" : [ {
+      "uid" : "a5492b8d7c4ba8ce",
+      "reportUrl" : "https://SaadCypress.github.io/cypress-allure-history-example/1//#testresult/a5492b8d7c4ba8ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653044199126,
+        "stop" : 1653044200458,
+        "duration" : 1332
+      }
+    }, {
       "uid" : "839de15bf70c697a",
       "reportUrl" : "https://Shelex.github.io/cypress-allure-history-example/5//#testresult/839de15bf70c697a",
       "status" : "passed",
@@ -116,11 +134,20 @@
       "failed" : 2,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 4
+      "total" : 5
     },
     "items" : [ {
+      "uid" : "4816312d88b88ba1",
+      "reportUrl" : "https://SaadCypress.github.io/cypress-allure-history-example/1//#testresult/4816312d88b88ba1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653044201751,
+        "stop" : 1653044202263,
+        "duration" : 512
+      }
+    }, {
       "uid" : "61c7ae2ac1f83a22",
       "reportUrl" : "https://Shelex.github.io/cypress-allure-history-example/5//#testresult/61c7ae2ac1f83a22",
       "status" : "passed",
@@ -165,11 +192,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 5
+      "total" : 6
     },
     "items" : [ {
+      "uid" : "fa0b85fbdc0b5dbd",
+      "reportUrl" : "https://SaadCypress.github.io/cypress-allure-history-example/1//#testresult/fa0b85fbdc0b5dbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653044200510,
+        "stop" : 1653044201707,
+        "duration" : 1197
+      }
+    }, {
       "uid" : "b13ee9a7870c6ad3",
       "reportUrl" : "https://Shelex.github.io/cypress-allure-history-example/5//#testresult/b13ee9a7870c6ad3",
       "status" : "passed",
