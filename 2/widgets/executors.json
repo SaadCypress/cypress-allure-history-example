@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://SaadCypress.github.io/cypress-allure-history-example",
+  "buildOrder" : 2,
+  "buildName" : "GitHub Actions Run #2357956539",
+  "buildUrl" : "https://github.com/SaadCypress/cypress-allure-history-example/actions/runs/2357956539",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://SaadCypress.github.io/cypress-allure-history-example/2/"
+} ]

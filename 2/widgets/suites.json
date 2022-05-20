@@ -1,0 +1,81 @@
+{
+  "total" : 7,
+  "items" : [ {
+    "uid" : "6096c009d362e3da19b7f7aa51d7267c",
+    "name" : "first.spec.ts",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "3336d39f1a643be3f1c8acf55af36763",
+    "name" : "Integration/Document/AddDocument.js",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "05cecbad097b34bc342ddf8c8146b591",
+    "name" : "Integration/Document/AddNewFolder.js",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "1891bceb5cc86bbfc39a19a06578391f",
+    "name" : "Integration/Document/DeleteDocument.js",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "39244240772c1319acf7285dac5684c2",
+    "name" : "Integration/Document/DeleteFolder.js",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "3da9ba83fa37520e23fb5737a4732b20",
+    "name" : "Integration/Document/EditFolderName.js",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "78fc0417b50afac716186551211a5ad6",
+    "name" : "Integration/Document/Resources.js",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

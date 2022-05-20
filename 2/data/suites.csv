@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri May 20 11:25:42 GMT 2022","Fri May 20 11:25:42 GMT 2022","0","","Integration/Document/AddDocument.js","","","","Oops...we found an error preparing this test file: Integration/Document/AddDocument.js",""
+"broken","Fri May 20 11:25:47 GMT 2022","Fri May 20 11:25:47 GMT 2022","0","","Integration/Document/AddNewFolder.js","","","","Oops...we found an error preparing this test file: Integration/Document/AddNewFolder.js",""
+"broken","Fri May 20 11:25:51 GMT 2022","Fri May 20 11:25:51 GMT 2022","0","","Integration/Document/DeleteDocument.js","","","","Oops...we found an error preparing this test file: Integration/Document/DeleteDocument.js",""
+"broken","Fri May 20 11:26:01 GMT 2022","Fri May 20 11:26:01 GMT 2022","0","","Integration/Document/EditFolderName.js","","","","Oops...we found an error preparing this test file: Integration/Document/EditFolderName.js",""
+"broken","Fri May 20 11:26:06 GMT 2022","Fri May 20 11:26:06 GMT 2022","0","","Integration/Document/Resources.js","","","","Oops...we found an error preparing this test file: Integration/Document/Resources.js",""
+"broken","Fri May 20 11:25:33 GMT 2022","Fri May 20 11:25:33 GMT 2022","0","","first.spec.ts","","","","Oops...we found an error preparing this test file: first.spec.ts",""
+"broken","Fri May 20 11:25:56 GMT 2022","Fri May 20 11:25:56 GMT 2022","0","","Integration/Document/DeleteFolder.js","","","","Oops...we found an error preparing this test file: Integration/Document/DeleteFolder.js",""
